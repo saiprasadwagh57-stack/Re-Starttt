@@ -1,0 +1,7 @@
+{
+  "name": "RE:START — AI Life-Admin Recovery Engine",
+  "description": "When life gets disrupted, RE:START maps service dependencies and finds the shortest, optimal path to recover your phone, identity, banking, and essential accounts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
